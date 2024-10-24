@@ -1,0 +1,6 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "appService.preDeployTask": "package:meatplace",
+    "appService.deploySubpath": "target/meatplace-0.0.1-SNAPSHOT.war"
+}

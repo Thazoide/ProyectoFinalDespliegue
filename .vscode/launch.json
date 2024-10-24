@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MeatplaceApplication<meatplace>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.meatplace.meatplace.MeatplaceApplication",
+            "projectName": "meatplace",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
